@@ -24,6 +24,12 @@ Expand on later: Use of USPS Webtools API to find Zipcode of Bike Route provided
     usps_webtools_pass
 ```
 
+###
+
+Learning: 
+    .gitignore     : adding a file to .gitignore after file is published in repo stream is funky and may still show commits <br>
+    repo visibility: deleting a repo will remove activity visible on your profile, best to make repo private so activity still shows you were working on it 
+
 ### Crediting 
 
 * [City of New York, Street Name Dictionary](https://data.cityofnewyork.us/City-Government/Street-Name-Dictionary/w4v2-rv6b/about_data)
