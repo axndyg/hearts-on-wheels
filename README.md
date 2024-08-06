@@ -18,11 +18,10 @@ Expand on later: Use of USPS Webtools API to find Zipcode of Bike Route provided
 * Borough
 * State 
 
-`!` file webtools_userid.txt formating 
+`!` file geocodio_key.txt formating 
 
 ```
-    usps_webtools_id
-    usps_webtools_pass
+    geocodio_api_key
 ```
 
 ###
