@@ -38,5 +38,7 @@ Learning:
 * [NYC.gov Death Datasets](https://www.nyc.gov/site/doh/data/data-sets/public-use-death-datasets.page)
 * [pygeocodio documentation](https://pygeocodio.readthedocs.io/en/latest/)
 
+## License 
 
+[MIT](https://choosealicense.com/licenses/mit/)
 
