@@ -9,6 +9,7 @@ Python packages used within this project
 * matplotlib
 * numpy (*for dummy data*)
 * geocodio
+* json 
 
 ## API Integration 
 
