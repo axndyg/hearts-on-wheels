@@ -13,7 +13,7 @@ Python packages used within this project
 
 ## API Integration 
 
-Expand on later: Use of USPS Webtools API to find Zipcode of Bike Route provided 
+Expand on later: Use of Geocodio API to find Zipcode of Bike Route provided 
 
 * Street
 * Borough
@@ -25,13 +25,17 @@ Expand on later: Use of USPS Webtools API to find Zipcode of Bike Route provided
     geocodio_api_key
 ```
 
-###
+#### Pace of API queries
+
+expand on later + daily limit
+
+##
 
 Learning: 
     .gitignore     : adding a file to .gitignore after file is published in repo stream is funky and may still show commits <br>
     repo visibility: deleting a repo will remove activity visible on your profile, best to make repo private so activity still shows you were working on it 
 
-### Data Usage
+## Data Usage
 
 * [City of New York, Street Name Dictionary](https://data.cityofnewyork.us/City-Government/Street-Name-Dictionary/w4v2-rv6b/about_data)
 * [City of New York, Bike Routes](https://data.cityofnewyork.us/dataset/New-York-City-Bike-Routes/mzxg-pwib/about_data)
