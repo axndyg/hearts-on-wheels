@@ -172,5 +172,5 @@ def dump_query():
 strt_i, zip_broutes = import_query(strt_i, zip_broutes)
 query_broutes = broutes_sts.iloc[strt_i:]
 
-strt_i = run_queries(strt_i, 2500, 100)
+strt_i = run_queries(strt_i, 2000, 100)
 dump_query()
